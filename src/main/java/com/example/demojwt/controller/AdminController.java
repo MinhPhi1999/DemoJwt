@@ -21,7 +21,7 @@ public class AdminController {
 
     @GetMapping
     public String userAccess() {
-        return "Admin Content.";
+        return "Adminnn Content.";
     }
 
     @GetMapping("/findAll")
